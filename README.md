@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Flask, Colab and Django**
 
-- 📫 Reach out to me **harshbhat83@gmail.com**
+- 📫 Reach out to me at **harshbhat83@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
