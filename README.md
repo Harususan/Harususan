@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and Deep Learning Projects**
 
-- 👨‍💻 All of my projects are available at [www.github.com/Harususan](www.github.com/Harususan)
+- 👨‍💻 All of my projects are available [here](https://github.com/Harususan)
 
 - 💬 Ask me about **Flask, Colab and Django**
 
