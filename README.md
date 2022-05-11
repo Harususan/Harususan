@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and Deep Learning Projects**
 
-- 💬 Ask me about **Flask, Colab and Django**
+- 💬 Ask me about **Machine Learning and Backend development in Python**
 
 - 📫 Reach out to me at **harshbhat83@gmail.com**
 
