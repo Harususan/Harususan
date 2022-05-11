@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Deep Learning and Django REST Framework**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Deep Learning Projects**
-- 
+
 - 💬 Ask me about **Flask, Colab and Django**
 
 - 📫 Reach out to me **harshbhat83@gmail.com**
