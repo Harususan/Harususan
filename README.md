@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harsh Bhat</h1>
-<h3 align="center">An Aspiring Data Science from India</h3>
+<h3 align="center">An Aspiring Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harususan&label=Profile%20views&color=0e75b6&style=flat" alt="harususan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/harshbhat12" target="blank"><img src="https://img.shields.io/twitter/follow/harshbhat12?logo=twitter&style=for-the-badge" alt="harshbhat12" /></a> </p>
 
-- 🔭 I’m currently working on **Music4Mood**
+- 🔭 I’m currently working on a **Computer Vision Project**
 
-- 🌱 I’m currently learning **Deep Learning and Django REST Framework**
+- 🌱 I’m currently learning **Django REST Framework and Sequential Deep Learning Algorithms**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Deep Learning Projects**
 
