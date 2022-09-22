@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a **Computer Vision Project**
 
-- 🌱 I’m currently learning **Django REST Framework and Sequential Deep Learning Algorithms**
+- 🌱 I’m currently learning **Django REST Framework and Natural Language Processing**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Deep Learning Projects**
 
