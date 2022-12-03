@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/harshbhat12" target="blank"><img src="https://img.shields.io/twitter/follow/harshbhat12?logo=twitter&style=for-the-badge" alt="harshbhat12" /></a> </p>
 
-- 🔭 I’m currently working on a **Computer Vision Project**
+<!-- - 🔭 I’m currently working on **** -->
 
-- 🌱 I’m currently learning **Django REST Framework and Natural Language Processing**
+- 🌱 I’m currently learning **Blockchain Development**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Deep Learning Projects**
 
-- 💬 Ask me about **Machine Learning and Backend development in Python**
+- 💬 Ask me about **Machine Learning, Development and Cloud**
 
 - 📫 Reach out to me at **harshbhat83@gmail.com**
 
