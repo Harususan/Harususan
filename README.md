@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshbhat12" target="blank"><img src="https://img.shields.io/twitter/follow/harshbhat12?logo=twitter&style=for-the-badge" alt="harshbhat12" /></a> </p>
 
-<!-- - 🔭 I’m currently working on **** -->
+- 🔭 I’m currently working on **Stock Market Simulation Platform**
 
 - 🌱 I’m currently learning **Blockchain Development**
 
